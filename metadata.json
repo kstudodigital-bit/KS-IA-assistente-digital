@@ -1,0 +1,7 @@
+{
+  "name": "KS IA Assistente",
+  "description": "Seu assistente de Marketing Digital 24h. Tire dúvidas sobre Tráfego, SEO, Lançamentos e mais.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
